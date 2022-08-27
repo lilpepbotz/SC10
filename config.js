@@ -8,24 +8,24 @@ global.APIs = {
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapi.xyz': 'Your Key',
+	'https://zenzapi.xyz': '7af605578a',
 }
 
 //api
 global.xteam = 'apivproject'
-global.lolhuman = 'yourkey'
+global.lolhuman = 'rey2k21'
 
 // Other
-global.owner = ['6281511480762']
-global.premium = ['6281511480762']
-global.ownername = 'YahyaGanzz'
-global.botname = 'AzzBot•MD'
-global.packname = '© YahyaGanzz'
-global.gc = 'https://github.com/AzzBott679'
-global.linkyt = 'https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g'
-global.linkgc = 'https://chat.whatsapp.com/CkguID8hSdSFAaBrKNHLSr'
-global.limitawal = '10'
-global.author = '@yahyaganzz\n@AzzBot'
+global.owner = ['6285669833748']
+global.premium = ['6285669833748']
+global.ownername = 'Adam Ofc'
+global.botname = 'Adam Bot•MD'
+global.packname = '© Adam Ofc'
+global.gc = 'https://github.com/lilpepbotz'
+global.linkyt = 'https://chat.whatsapp.com/KJaJXFVEvso2E9VscWxeal'
+global.linkgc = 'https://chat.whatsapp.com/KJaJXFVEvso2E9VscWxeal'
+global.limitawal = '100'
+global.author = '@Adam Ofc\n@AdamBot'
 global.sessionName = 'sessionya'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⌕'
